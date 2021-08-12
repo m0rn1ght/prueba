@@ -1,0 +1,33 @@
+/* Estilos principales de la página */
+
+header{
+  background-color: lightblue;
+}
+body{
+  background-color: beige;
+}
+h1{
+  position: static;
+  font-size: 60px;
+  text-align: center;
+  color: darkblue;
+  margin-bottom: 0px;
+}
+h2{
+  margin-left: 5%;
+}
+h3{
+  margin-top: 0px;
+  margin-right: 5%;
+  margin-bottom: 0px;
+  float: right;
+  text-align: right;
+  color: darkred;
+}
+a{
+  margin-left: 5%;
+}
+nav#barra_navegacion{
+  margin-top: 20px;
+  display: inline-flex;
+}
